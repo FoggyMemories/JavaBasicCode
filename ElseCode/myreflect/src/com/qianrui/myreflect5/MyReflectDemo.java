@@ -18,7 +18,7 @@ public class MyReflectDemo {
 	//把对象里面所有的成员变量名和值保存到本地文件中
 	public static void saveObject(Object obj) throws IllegalAccessException, IOException {
 		//1.获取字节码文件的对象
-		Class clazz = obj.getClass();
+		Class<?> clazz = obj.getClass();
 		//2. 创建IO流
 		BufferedWriter bw = new BufferedWriter(new FileWriter("ElseCode\\myreflect\\a.txt"));
 		//3. 获取所有的成员变量
