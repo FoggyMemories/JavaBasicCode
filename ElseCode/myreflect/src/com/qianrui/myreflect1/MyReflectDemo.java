@@ -1,6 +1,6 @@
 package com.qianrui.myreflect1;
 
-public class MyReflectDemo1 {
+public class MyReflectDemo {
     public static void main(String[] args) throws ClassNotFoundException {
         /*
             获取class对象的三种方式:
