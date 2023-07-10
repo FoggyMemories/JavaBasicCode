@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myio/myio.iml" filepath="$PROJECT_DIR$/ElseCode/myio/myio.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionCode/mymap/mymap.iml" filepath="$PROJECT_DIR$/CollectionCode/mymap/mymap.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myproperties/myproperties.iml" filepath="$PROJECT_DIR$/ElseCode/myproperties/myproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElseCode/myreflect/myreflect.iml" filepath="$PROJECT_DIR$/ElseCode/myreflect/myreflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/mysearch/mysearch.iml" filepath="$PROJECT_DIR$/ElseCode/mysearch/mysearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/mysocketnet/mysocketnet.iml" filepath="$PROJECT_DIR$/ElseCode/mysocketnet/mysocketnet.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/mystream/mystream.iml" filepath="$PROJECT_DIR$/ElseCode/mystream/mystream.iml" />
