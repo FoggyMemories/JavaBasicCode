@@ -44,6 +44,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOPCode/oop-jurisdiction/oop-jurisdiction.iml" filepath="$PROJECT_DIR$/OOPCode/oop-jurisdiction/oop-jurisdiction.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPCode/oop-pakaging/oop-pakaging.iml" filepath="$PROJECT_DIR$/OOPCode/oop-pakaging/oop-pakaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPCode/oop-polymorphism/oop-polymorphism.iml" filepath="$PROJECT_DIR$/OOPCode/oop-polymorphism/oop-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElseCode/mysocketnet/socketnetwork/socketnetwork.iml" filepath="$PROJECT_DIR$/ElseCode/mysocketnet/socketnetwork/socketnetwork.iml" />
       <module fileurl="file://$PROJECT_DIR$/OldCode/day12-code/studentsystem/studentsystem.iml" filepath="$PROJECT_DIR$/OldCode/day12-code/studentsystem/studentsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/OldCode/day12-code/usersystem/usersystem.iml" filepath="$PROJECT_DIR$/OldCode/day12-code/usersystem/usersystem.iml" />
     </modules>
