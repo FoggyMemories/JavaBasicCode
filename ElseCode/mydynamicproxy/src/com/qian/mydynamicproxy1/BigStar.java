@@ -1,6 +1,6 @@
 package com.qian.mydynamicproxy1;
 
-public class BigStar {
+public class BigStar implements Star {
 	private String name;
 
 
@@ -12,6 +12,17 @@ public class BigStar {
 	}
 
 	//唱歌 跳舞
+	@Override
+	public String sing(String name) {
+		System.out.println(this.name + "正在唱" + name);
+		return "谢谢";
+	}
+
+	@Override
+	public void dance() {
+		System.out.println(this.name + "正在跳舞");
+	}
+
 
 	/**
 	 * 获取
