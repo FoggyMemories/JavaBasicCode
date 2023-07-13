@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myapi/myapi.iml" filepath="$PROJECT_DIR$/ElseCode/myapi/myapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionCode/mycontainer/mycontainer.iml" filepath="$PROJECT_DIR$/CollectionCode/mycontainer/mycontainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/mydate/mydate.iml" filepath="$PROJECT_DIR$/ElseCode/mydate/mydate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElseCode/mydynamicproxy/mydynamicproxy.iml" filepath="$PROJECT_DIR$/ElseCode/mydynamicproxy/mydynamicproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myexception/myexception.iml" filepath="$PROJECT_DIR$/ElseCode/myexception/myexception.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myfile/myfile.iml" filepath="$PROJECT_DIR$/ElseCode/myfile/myfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElseCode/myfunction/myfunction.iml" filepath="$PROJECT_DIR$/ElseCode/myfunction/myfunction.iml" />
